@@ -10,8 +10,16 @@ Love the hit TV show [*Black Mirror*](https://en.wikipedia.org/wiki/Black_Mirror
 ## Season 2
 - ["Be Right Back"](https://en.wikipedia.org/wiki/Be_Right_Back): Anyone can build a [text messaging chatbot](https://www.ventureharbour.com/best-chatbot-builders/), and [advanced](https://blog.s-m.ac/GPT-2-ChatBot/) [ones](https://replika.ai/) [aren't](https://www.cleverbot.com/) [unheard](https://www.pandorabots.com/mitsuku/) [of](https://aidungeon.io/). The first human [may or may not have been cloned](https://www.discovermagazine.com/health/chinese-scientist-claims-hes-created-worlds-first-gene-edited-babies). The episode was [based on](https://en.wikipedia.org/wiki/Be_Right_Back#Conception_and_writing) the chatbot [ELIZA](https://en.wikipedia.org/wiki/ELIZA).
 
-## Christmas Special
-- ["White Christmas"](https://en.wikipedia.org/wiki/White_Christmas_(Black_Mirror)): The [person-blocker](https://github.com/minimaxir/person-blocker) is now real, at least for images.
-
 ## Season 3
 - ["Shut Up and Dance"](https://en.wikipedia.org/wiki/Shut_Up_and_Dance_(Black_Mirror)): [Shut up and use this](https://www.amazon.com/slp/laptop-camera-cover/uf85n8xg4r9q878), saves the hassle.
+
+## Season 4
+- 
+
+
+## Season 5
+- 
+
+## Other
+- ["White Christmas"](https://en.wikipedia.org/wiki/White_Christmas_(Black_Mirror)): The [person-blocker](https://github.com/minimaxir/person-blocker) is now real, at least for images.
+- [*Bandersnatch*](https://en.wikipedia.org/wiki/Black_Mirror:_Bandersnatch): Based on [adventure games](https://en.wikipedia.org/wiki/Adventure_game) and [Choose Your Own Adventure books](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure).
